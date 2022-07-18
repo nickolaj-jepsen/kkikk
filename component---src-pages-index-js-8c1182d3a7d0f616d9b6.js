@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmedusa_admin=self.webpackChunkmedusa_admin||[]).push([[678],{56558:function(e,n,t){t.r(n);var a=t(1597),u=t(67294),i=t(54374),l=t(10044);n.default=function(){return(0,u.useEffect)((function(){(0,a.navigate)("/a/orders")}),[]),u.createElement(l.Z,null,u.createElement(i.Z,{title:"Home"}),u.createElement("div",null,"hi index"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-8c1182d3a7d0f616d9b6.js.map
