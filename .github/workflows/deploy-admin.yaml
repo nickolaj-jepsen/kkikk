@@ -12,7 +12,7 @@ jobs:
           submodules: true
       - uses: enriikke/gatsby-gh-pages-action@v2
         env:
-          GATSBY_MEDUSA_BACKEND_URL: http://webshop-backend.fly.dev
+          GATSBY_MEDUSA_BACKEND_URL: https://webshop-backend.fly.dev
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           working-dir: admin
